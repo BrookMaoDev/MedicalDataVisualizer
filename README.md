@@ -15,3 +15,11 @@ This categorical plot demonstrates how people with cardiovascular diseases tend 
 
 ![heatmap](heatmap.png)  
 This correlation plot shows how certain features are more correlated than others, such as sex and height, cholesterol and glucose, and blood pressure and cardiovascular problems.
+
+## Technologies Used
+
+-   **pandas**: For CSV processing and data analysis.
+-   **matplotlib** and **seaborn**: For data visualization.
+-   **unittest**: For running unit tests.
+
+Ensure that you run `pip install -r requirements.txt` before executing `python main.py`.
